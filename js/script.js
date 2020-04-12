@@ -19,4 +19,13 @@ $(document).ready(function(){
     $('#card3').click(function (){
         $('.ui.modal.modal3').modal('toggle');
     });
+    $('#card4').click(function (){
+        $('.ui.modal.modal4').modal('toggle');
+    });
+    $('#card5').click(function (){
+        $('.ui.modal.modal5').modal('toggle');
+    });
+    $('#card6').click(function (){
+        $('.ui.modal.modal6').modal('toggle');
+    });
 });
