@@ -158,3 +158,9 @@ h2.sc-h2 {
     }
 
 }
+
+#card1 img, #card2 img, #card3 img, 
+#card4 img, #card5 img, #card6 img,
+.modal img {
+    filter: grayscale(100%);
+}
